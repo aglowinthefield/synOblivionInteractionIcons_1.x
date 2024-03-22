@@ -1,0 +1,8 @@
+{
+  "Nickname": "OblivionInteractionIcons",
+  "Visibility": "IncludeButHide",
+  "OneLineDescription": "",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": ["skymoji.esp"]
+}
